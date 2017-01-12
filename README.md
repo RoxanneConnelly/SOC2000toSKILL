@@ -1,10 +1,10 @@
-**SKILL LEVELS FROM SOC2000
+**SKILL LEVELS FROM SOC2000**
 
 ROXANNE CONNELLY R.Connelly@warwick.ac.uk @ConnellyRoxanne
 
 VERNON GAYLE vernon.gayle@ed.ac.uk @profbigvern
 
-**Project: ES/N011783/1
+Project: ES/N011783/1
 
 These files describe the derivation of skill levels from SOC2000.
 
